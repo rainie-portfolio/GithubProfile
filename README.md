@@ -16,8 +16,8 @@ I'm a full-stack developer with a Master’s in Computer Science from Northeaste
 ---
 
 ## 💼 Projects  
-- 🎯 **[OptionX]([#](https://main--glistening-manatee-a73fc7.netlify.app/))** – Trading platform with real-time options analysis  
-- 🎬 **[E-commerce]([#](https://stellar-genie-465324.netlify.app/))** – E-Commerce website allows users to shop
+- 🎯 **[OptionX](https://main--glistening-manatee-a73fc7.netlify.app/)** – Trading platform with real-time options analysis  
+- 🎬 **[E-commerce](https://stellar-genie-465324.netlify.app/)** – E-Commerce website allows users to shop
 - 🧋 **[Inventory Management System](#)** – Inventory management system with barcode scanning
 
 ---
