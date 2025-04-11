@@ -33,3 +33,8 @@ I'm a full-stack developer with a Master’s in Computer Science from Northeaste
 - I’ve traveled to 🇦🇺 🇯🇵 🇨🇳 🇫🇷 🇪🇸 🇰🇷 and hope to visit 🇮🇸 🇳🇴 next!  
 - Baking is my go-to stress reliever 🍰  
 - I thrive where tech meets human needs
+
+---
+
+📫 **Let's Connect**  
+[LinkedIn](https://www.linkedin.com/in/rainie-z-238b30159/) • Email: rainieportfolio@gmail.com
