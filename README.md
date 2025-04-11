@@ -18,7 +18,7 @@ I'm a full-stack developer with a Master’s in Computer Science from Northeaste
 ## 💼 Projects  
 - 🎯 **[OptionX](https://main--glistening-manatee-a73fc7.netlify.app/)** – Trading platform with real-time options analysis . 
 - 🎬 **[E-commerce](https://stellar-genie-465324.netlify.app/)** – E-Commerce website allows users to shop.
-- 🧋 **[ChatNow](https://starlit-snickerdoodle-deaa90.netlify.app/)** – Real-time messaging app that allows low-latency, real-time conversations and group messaging with up to 50 users.
+- 🧋 **[ChatNow](https://starlit-snickerdoodle-deaa90.netlify.app/)** – Messaging app that allows low-latency, real-time conversations and group messaging with up to 50 users.
 
 ---
 
